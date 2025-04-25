@@ -3,7 +3,7 @@ SNHU CS-405 Secure Coding Projects and Assignments.
 
 
 ## Contents
-A collection of software security implentation including:
+A collection of software security implentation including: <br/>
 Module 1 - Numeric Overflow. Methods and techniques to prevent overflow or underflow of integer values
 Module 2 - SQL Injection. Methods and techniques to prevent SQL injection
 Module 2 - Buffer Overflow. Methods and techniques to prevent buffer and array overflows and memory leaks
